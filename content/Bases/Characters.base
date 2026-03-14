@@ -1,0 +1,66 @@
+filters:
+  and:
+    - file.inFolder("Characters")
+formulas:
+  Untitled: ((Strength-10)/2).floor()
+  Dexterity: ((Dexterity-10)/2).floor()
+  Constitution: ((Constitution-10)/2).floor()
+  Intelligence: ((Intelligence-10)/2).floor()
+  Wisdom: ((Wisdom-10)/2).floor()
+  Charisma: ((Charisma-10)/2).floor()
+properties:
+  formula.Untitled:
+    displayName: Strength
+  file.name:
+    displayName: Name
+views:
+  - type: table
+    name: Stats
+    order:
+      - file.name
+      - Strength
+      - Dexterity
+      - Constitution
+      - Intelligence
+      - Wisdom
+      - Charisma
+    sort: []
+    summaries: {}
+    columnSize:
+      file.name: 79
+      note.Strength: 104
+      note.Dexterity: 106
+      note.Constitution: 139
+      note.Intelligence: 125
+      note.Wisdom: 100
+      note.Charisma: 109
+  - type: table
+    name: Stat Bonuses
+    order:
+      - file.name
+      - formula.Untitled
+      - formula.Dexterity
+      - formula.Constitution
+      - formula.Intelligence
+      - formula.Wisdom
+      - formula.Charisma
+    sort: []
+    columnSize:
+      file.name: 79
+      formula.Untitled: 104
+      formula.Dexterity: 106
+      formula.Constitution: 139
+      formula.Intelligence: 125
+      formula.Wisdom: 100
+      formula.Charisma: 113
+  - type: list
+    name: Character Classes
+    order:
+      - file.name
+      - Class
+      - Level
+      - Race
+      - Background
+    indentProperties: false
+    markers: none
+    separator: ", "
