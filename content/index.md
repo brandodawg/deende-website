@@ -1,6 +1,9 @@
 ---
-title: Welcome to Quartz
+title: Main Menu
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# Characters
+- [[Aoi]]
+- [[Beaver]]
+- [[luke]]
+- [[Noah]]
+- [[tyler]]
