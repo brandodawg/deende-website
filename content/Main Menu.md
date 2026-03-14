@@ -1,2 +1,6 @@
 # Bases
-- [[Characters.base|Characters]]
+- [[Aoi]]
+- [[Beaver]]
+- [[luke]]
+- [[Noah]]
+- [[tyler]]
