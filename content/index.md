@@ -4,6 +4,6 @@ title: Main Menu
 # Characters
 - [[Aoi]]
 - [[Beaver]]
-- [[luke]]
+- [[Elise]]
+- [[Jeremiah]]
 - [[Noah]]
-- [[tyler]]

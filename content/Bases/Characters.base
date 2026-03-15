@@ -27,7 +27,7 @@ views:
     sort: []
     summaries: {}
     columnSize:
-      file.name: 79
+      file.name: 83
       note.Strength: 104
       note.Dexterity: 106
       note.Constitution: 139

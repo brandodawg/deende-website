@@ -64,16 +64,30 @@ Horrified, Beaver ran away from his home under the High Forest, taking his anima
 - Fae ancestry
 	- Advantage on saving throws avoiding being charmed
 - Trance
+- Divine sense
 # Equipment
 ## Currency
 
 | CP  | SP  | EP  | GP  | PP  |
 | --- | --- | --- | --- | --- |
-|     |     |     |     |     |
+|     |     |     | 10  |     |
 ## Items
-* 
+* Shield
+* War pick
+* 5 javelins
+* Priest pack
+* Chainmail
+* Holy symbol
+* Alchemist supplies
+* Shovel
+* Iron pot
 # Other Proficiencies & Languages
 ## Proficiencies
-- 
+- All weapons
+- All armor
+- Shields
+- Land vehicles
+- Alchemist supplies
 ## Languages
-- 
+- Common
+- Elvish

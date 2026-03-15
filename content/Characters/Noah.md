@@ -67,12 +67,7 @@ Skills:
 * Crowbar
 # Other Proficiencies & Languages
 ## Proficiencies
-- Weapons
-	- Battle axe
-	- Hand axe
-	- Light hammer
-	- Warhammer
-	- All (no firearms)
+- All weapons (no firearms)
 - Brewer's supplies
 - Stone cunning
 - Armor
