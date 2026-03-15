@@ -2,10 +2,10 @@
 tags:
   - character
 Class: Sorcerer
-Level: 1
+Level: 2
 Race: Tiefling
 Background: Sailor
-Alignment:
+Alignment: Chaotic Evil
 Experience Points:
 Strength: 12
 Dexterity: 13
@@ -39,8 +39,8 @@ Aoi is conflicted on whether or not to strive to reintegrate with society. On on
 | Armor | Initiative | Speed |
 | ----- | ---------- | ----- |
 | 11    |            | 30 ft |
-- Max hit points - 6
-	- Current hit points - 6
+- Max hit points - 12
+	- Current hit points - 12
 	- Temporary hit points - 
 - Hit dice - 1
 	- Total - 1d6
@@ -55,22 +55,29 @@ Aoi is conflicted on whether or not to strive to reintegrate with society. On on
 | Dagger         | 1d4          | Piercing    |
 # Spells
 ## Cantrips
-- Thaumaturgy
-- Friends
-- Mind sliver
-- Prestidigiation
-- Shocking grasp
-- Minor illusion
-## 1
-- Burning hands
-- Witch bolt
-- Arms of Hadar
-- Dissonant whispers
+- [[Thaumaturgy]]
+- [[Friends]]
+- [[Mind sliver]]
+- [[Prestidigitation]]
+- [[Shocking grasp]]
+- [[Minor illusion]]
+## 1 - 3 slots
+- [[Burning hands]]
+- [[Witch bolt]]
+- [[Arms of Hadar]]
+- [[Dissonant whispers]]
+- [[Charm person]]
 # Features & Traits
 - Dark vision - 60 ft
 - Resistance to fire damage
 - Abberant Mind
 - Telepathic speech
+- Font of magic
+	- 2 sorcery points
+	- Use sorcery points to make spell slots
+	- Use spell slots to get sorcery points
+		- 2 sorcery points = 1 spell slot
+		- More as I level up
 # Equipment
 ## Currency
 
@@ -80,8 +87,8 @@ Aoi is conflicted on whether or not to strive to reintegrate with society. On on
 ## Items
 * 50 ft of silk rope
 * 2 daggers
-* Dungeoneers Pack
-* Arcane Focus
+* Dungeoneers pack
+* Arcane focus
 * A light crossbow with 20 bolts
 # Other Proficiencies & Languages
 ## Proficiencies
@@ -96,4 +103,3 @@ Aoi is conflicted on whether or not to strive to reintegrate with society. On on
 ## Languages
 - Common
 - Infernal
-

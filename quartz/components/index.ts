@@ -1,3 +1,4 @@
+import FrontmatterMeta from "./FrontmatterMeta"
 import Content from "./pages/Content"
 import TagContent from "./pages/TagContent"
 import FolderContent from "./pages/FolderContent"
@@ -34,6 +35,7 @@ export {
   Head,
   PageTitle,
   ContentMeta,
+  FrontmatterMeta,
   Spacer,
   TableOfContents,
   Explorer,

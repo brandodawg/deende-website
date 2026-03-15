@@ -46,13 +46,19 @@ views:
       - formula.Charisma
     sort: []
     columnSize:
-      file.name: 79
+      file.name: 84
       formula.Untitled: 104
       formula.Dexterity: 106
       formula.Constitution: 139
       formula.Intelligence: 125
       formula.Wisdom: 100
       formula.Charisma: 113
+  - type: table
+    name: Skills
+    order:
+      - file.name
+      - Skills
+    sort: []
   - type: list
     name: Character Classes
     order:

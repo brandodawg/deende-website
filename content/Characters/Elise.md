@@ -2,7 +2,7 @@
 tags:
   - character
 Class: Paladin
-Level: 1
+Level: 2
 Race: Human
 Background: Ruined
 Alignment: Chaotic Evil

@@ -2,7 +2,7 @@
 tags:
   - character
 Class: Druid
-Level: 1
+Level: 2
 Race: Wood elf
 Background: Outlander
 Alignment:

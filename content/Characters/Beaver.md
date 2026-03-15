@@ -2,7 +2,7 @@
 tags:
   - character
 Class: Paladin
-Level: 1
+Level: 2
 Race: Dark Elf
 Background: Folk Hero
 Alignment:
@@ -61,7 +61,7 @@ Horrified, Beaver ran away from his home under the High Forest, taking his anima
 - Dark vision - 120 ft
 - Sensitive to sun
 	- Disadvantage on attacks/perception
-- Fae ancestry
+- Fey ancestry
 	- Advantage on saving throws avoiding being charmed
 - Trance
 - Divine sense
