@@ -5,7 +5,7 @@ Class: Paladin
 Level: 2
 Race: Human
 Background: Ruined
-Alignment: Chaotic Evil
+Alignment: Chaotic Good
 Experience Points:
 Strength: 19
 Dexterity: 14
@@ -36,13 +36,12 @@ Grew up in factory town in Alabama. In the 2009 stock market crash, his father w
 # Combat
 | Armor | Initiative | Speed |
 | ----- | ---------- | ----- |
-| 18    |            | 30 ft |
-
+| 16    |            | 30 ft |
 - Max hit points - 14
 	- Current hit points - 14
 	- Temporary hit points - 
 - Hit dice - d10
-	- Total - 1
+	- Total - 2
 - Death saves
 	- Successes - 
 	- Defeats - 
@@ -60,7 +59,7 @@ Grew up in factory town in Alabama. In the 2009 stock market crash, his father w
 	- Fiend
 	- Undead
 - Lay on hands
-	- Touch, give
+	- Touch, give (10)
 - Still standing
 - Tough
 # Equipment
@@ -77,6 +76,7 @@ Grew up in factory town in Alabama. In the 2009 stock market crash, his father w
 * Holy symbol
 * Hunting trap
 * Fortnite
+* Grappling hook
 # Other Proficiencies & Languages
 ## Proficiencies
 - All weapons
@@ -86,3 +86,4 @@ Grew up in factory town in Alabama. In the 2009 stock market crash, his father w
 ## Languages
 - Common
 - Giant
+- Abyssal
