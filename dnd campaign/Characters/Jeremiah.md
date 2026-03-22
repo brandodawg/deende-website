@@ -50,13 +50,13 @@ Skills:
 | Dagger    | 1d4          | Piercing (thrown)                 |
 # Spells
 ## Cantrips
-- Guidance
-- Create bonfire
-- Magic stone
+- [[Guidance]]
+- [[Create bonfire]]
+- [[Magic stone]]
 ## 1 - 3
-- Detect poison and disease
-- Cure wounds
-- Goodberry
+- [[Detect poison and disease]]
+- [[Cure wounds]]
+- [[Goodberry]]
 # Features & Traits
 - Dark vision - 60 ft
 - Fey ancestry
