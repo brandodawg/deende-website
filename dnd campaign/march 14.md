@@ -5,7 +5,7 @@ elise successfully intimidates jeremiah into sadness. however, jeremiah seduces 
 ### the morning
 aoi talks to a random person. they tell aoi "there is an important funeral. we are in palebank villiage." the person offers aoi a drink. she declines.
 
-aoi convinces elise that she is more traditional. thus, aoi is now the leader. beaver walks in and wonders whether there is free food at the funeral. "last night was crazy" elise remarks, "i'm a bit sore". both elise and jeremiah forgot what happened as they were drunk
+aoi convinces elise that she is more traditional. thus, aoi is now the leader. beaver walks in and wonders whether there is free food at the funeral. "last night was crazy" elise remarks, "i'm a bit sore". both elise and jeremiah forgot what happened as they were drunk.
 ### the funeral begins
 *it starts snowing*
 

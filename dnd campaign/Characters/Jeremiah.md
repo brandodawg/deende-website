@@ -33,11 +33,11 @@ Skills:
 | Armor | Initiative | Speed |
 | ----- | ---------- | ----- |
 | 12    |            | 35 ft |
-- Max hit points - 8
-	- Current hit points - 8
+- Max hit points - 13
+	- Current hit points - 13
 	- Temporary hit points - 
-- Hit dice - 1d8
-	- Total - 1
+- Hit dice - d8
+	- Total - 2
 - Death saves
 	- Successes - 
 	- Defeats - 
@@ -47,13 +47,16 @@ Skills:
 | --------- | ------------ | --------------------------------- |
 | Hand axe  | 1d6          | Slash (thrown)                    |
 | Short bow | 1d6          | Piercing (ammunition, two-handed) |
+| Dagger    | 1d4          | Piercing (thrown)                 |
 # Spells
 ## Cantrips
 - Guidance
 - Create bonfire
-## 1
+- Magic stone
+## 1 - 3
 - Detect poison and disease
 - Cure wounds
+- Goodberry
 # Features & Traits
 - Dark vision - 60 ft
 - Fey ancestry
@@ -76,6 +79,8 @@ Skills:
 * Hunting trap
 * Animal trophy
 * Traveler's clothes
+* Has Mila Teno's address
+* Has two pet wolves (they like [[Beaver]] more)
 # Other Proficiencies & Languages
 ## Proficiencies
 - Weapons

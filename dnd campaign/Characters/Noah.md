@@ -24,6 +24,7 @@ Skills:
 ---
 # Background
 ## Story
+
 ## Personality Traits
 ## Ideals
 ## Bonds
