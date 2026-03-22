@@ -1,3 +1,7 @@
+---
+tags:
+  - session
+---
 ### the night before
 *beaver, elise, and jeremiah all arrive at a tavern. aoi and noah have not yet arrived.*
 
