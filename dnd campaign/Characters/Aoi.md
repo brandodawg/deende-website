@@ -90,6 +90,8 @@ Aoi is conflicted on whether or not to strive to reintegrate with society. On on
 * Dungeoneers pack
 * Arcane focus
 * A light crossbow with 20 bolts
+* 1 dead bat
+* Quiver of enchanted arrows (deal 1 extra damage)
 # Other Proficiencies & Languages
 ## Proficiencies
 - Weapons

@@ -1,0 +1,1 @@
+Frigid Woe is a magical, incurable disease originating from the Explorer's Guide to Wildemount (specifically the Frozen Sick adventure) in Dungeons & Dragons 5th Edition. It was engineered by the mages of Aeor to kill or hinder gods and celestials, designed to bypass conventional healing methods.
