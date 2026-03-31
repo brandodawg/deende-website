@@ -56,7 +56,7 @@ Horrified, Beaver ran away from his home under the High Forest, taking his anima
 | Javelin | 1d6          | Piercing    |
 # Spells
 ## Cantrips
-- Dancing lights
+- [[Dancing lights]]
 # Features & Traits
 - Dark vision - 120 ft
 - Sensitive to sun

@@ -49,10 +49,10 @@ Aoi is conflicted on whether or not to strive to reintegrate with society. On on
 	- Defeats - 
 # Attacks & Spellcasting
 
-| Name           | Attack Bonus | Damage Type |
-| -------------- | ------------ | ----------- |
-| Light crossbow | 1d8          | Piercing    |
-| Dagger         | 1d4          | Piercing    |
+| Name           | Attack Bonus              | Damage Type |
+| -------------- | ------------------------- | ----------- |
+| Light crossbow | 1d8 +1 (enchanted arrows) | Piercing    |
+| Dagger         | 1d4                       | Piercing    |
 # Spells
 ## Cantrips
 - [[Thaumaturgy]]
@@ -61,12 +61,14 @@ Aoi is conflicted on whether or not to strive to reintegrate with society. On on
 - [[Prestidigitation]]
 - [[Shocking grasp]]
 - [[Minor illusion]]
-## 1 - 3 slots
+## 1 - 4 slots
 - [[Burning hands]]
 - [[Witch bolt]]
 - [[Arms of Hadar]]
 - [[Dissonant whispers]]
 - [[Charm person]]
+## 2 - 2 slots
+- [[Phantasmal Force]]
 # Features & Traits
 - Dark vision - 60 ft
 - Resistance to fire damage
