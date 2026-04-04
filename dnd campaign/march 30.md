@@ -28,4 +28,4 @@ aoi kills fentin' using her enchanted crossbow, and beaver kills irvin using his
 ### at sal's vault's gate
 *aoi spots two mephits waiting by the gate, and we attack proactively*
 
-aoi kills both mephits, and they explode. aoi and elise open the door for jeremiah and beaver.
+aoi kills both mephits, and they explode. aoi and elise open the door for jeremiah and beaver. aoi, elise, and beaver kill two animated armors in the first room.

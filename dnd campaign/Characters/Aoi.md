@@ -75,11 +75,19 @@ Aoi is conflicted on whether or not to strive to reintegrate with society. On on
 - Abberant Mind
 - Telepathic speech
 - Font of magic
-	- 2 sorcery points
+	- 3 sorcery points
 	- Use sorcery points to make spell slots
 	- Use spell slots to get sorcery points
 		- 2 sorcery points = 1 spell slot
 		- More as I level up
+- Metamagic
+	- Empowered spell
+		- Cost: 1 Sorcery Point
+		- When you roll damage for a spell, you can spend 1 Sorcery Point to reroll a number of the damage dice up to your Charisma modifier (minimum of one), and you must use the new rolls.
+		- You can use Empowered Spell even if you’ve already used a different Metamagic option during the casting of the spell.
+	- Twinned spell
+		- Cost: 1 Sorcery Point
+		- When you cast a spell, such as [[Charm Person]], that can be cast with a higher-level spell slot to target an additional creature, you can spend 1 Sorcery Point to increase the spell’s effective level by 1.
 # Equipment
 ## Currency
 

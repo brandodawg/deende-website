@@ -57,6 +57,11 @@ Horrified, Beaver ran away from his home under the High Forest, taking his anima
 # Spells
 ## Cantrips
 - [[Dancing lights]]
+## 1 - 2 slots
+- [[Command]]
+- [[Compelled Duel]]
+- [[Cure Wounds]]
+- [[Wrathful Smite]]
 # Features & Traits
 - Dark vision - 120 ft
 - Sensitive to sun

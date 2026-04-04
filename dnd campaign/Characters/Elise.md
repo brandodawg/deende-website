@@ -52,6 +52,11 @@ Grew up in factory town in Alabama. In the 2009 stock market crash, his father w
 | War hammer | 1d8          | Bludgeoning |
 | Club       | 1d4          | Bludgeoning |
 # Spells
+## 1 - 2 slots
+- [[Purify Food and Drink]]
+- [[Ceremony]]
+- [[Thunderous Smite]]
+- [[Command]]
 # Features & Traits
 - Crusher
 - Divine sense
