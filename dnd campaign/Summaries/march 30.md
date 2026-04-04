@@ -1,3 +1,7 @@
+---
+tags:
+  - session
+---
 ### forgetting
 *everyone forgets the threesome, and jeremiah goes to jail*
 ### getting the vial

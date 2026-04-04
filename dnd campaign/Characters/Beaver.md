@@ -61,7 +61,7 @@ Horrified, Beaver ran away from his home under the High Forest, taking his anima
 - [[Command]]
 - [[Compelled Duel]]
 - [[Cure Wounds]]
-- [[Wrathful Smite]]
+- [[Thunderous Smite]]
 # Features & Traits
 - Dark vision - 120 ft
 - Sensitive to sun

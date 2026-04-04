@@ -2,11 +2,10 @@
 tags:
   - character
 Class: Paladin
-Level: 2
+Level: 3
 Race: Human
 Background: Ruined
 Alignment: Chaotic Good
-Experience Points:
 Strength: 19
 Dexterity: 14
 Constitution: 14
@@ -52,11 +51,13 @@ Grew up in factory town in Alabama. In the 2009 stock market crash, his father w
 | War hammer | 1d8          | Bludgeoning |
 | Club       | 1d4          | Bludgeoning |
 # Spells
-## 1 - 2 slots
+## 1 - 3 slots
 - [[Purify Food and Drink]]
 - [[Ceremony]]
 - [[Thunderous Smite]]
 - [[Command]]
+- [[Hellish Rebuke]]
+- [[Inflict Wounds]]
 # Features & Traits
 - Crusher
 - Divine sense
