@@ -2,7 +2,7 @@
 tags:
   - character
 Class: Sorcerer
-Level: 2
+Level: 3
 Race: Tiefling
 Background: Sailor
 Alignment: Chaotic Evil

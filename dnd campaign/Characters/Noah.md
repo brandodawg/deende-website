@@ -2,7 +2,7 @@
 tags:
   - character
 Class: Barbarian
-Level: 1
+Level: 2
 Race: Mountain Dwarf
 Background: Criminal - Fence
 Alignment:
