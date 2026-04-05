@@ -6,7 +6,6 @@ Level: 2
 Race: Mountain Dwarf
 Background: Criminal - Fence
 Alignment:
-Experience Points:
 Strength: 19
 Dexterity: 15
 Constitution: 18

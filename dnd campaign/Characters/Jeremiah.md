@@ -6,7 +6,6 @@ Level: 2
 Race: Wood elf
 Background: Outlander
 Alignment:
-Experience Points:
 Strength: 12
 Dexterity: 13
 Constitution: 11

@@ -6,7 +6,6 @@ Level: 4
 Race: Tiefling
 Background: Sailor
 Alignment: Chaotic Evil
-Experience Points:
 Strength: 12
 Dexterity: 13
 Constitution: 10

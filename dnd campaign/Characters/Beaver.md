@@ -6,7 +6,6 @@ Level: 2
 Race: Dark Elf
 Background: Folk Hero
 Alignment:
-Experience Points:
 Strength: 14
 Dexterity: 13
 Constitution: 14
