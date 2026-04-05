@@ -2,7 +2,7 @@
 tags:
   - character
 Class: Sorcerer
-Level: 3
+Level: 4
 Race: Tiefling
 Background: Sailor
 Alignment: Chaotic Evil
@@ -12,7 +12,7 @@ Dexterity: 13
 Constitution: 10
 Intelligence: 12
 Wisdom: 11
-Charisma: 18
+Charisma: 20
 Saving Throws:
   - Constitution
   - Charisma
