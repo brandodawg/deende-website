@@ -61,14 +61,18 @@ Aoi is conflicted on whether or not to strive to reintegrate with society. On on
 - [[Prestidigitation]]
 - [[Shocking grasp]]
 - [[Minor illusion]]
+- [[Fire Bolt]]
 ## 1 - 4 slots
 - [[Burning hands]]
 - [[Witch bolt]]
 - [[Arms of Hadar]]
 - [[Dissonant whispers]]
 - [[Charm person]]
-## 2 - 2 slots
+## 2 - 3 slots
 - [[Phantasmal Force]]
+- [[Calm Emotions]]
+- [[Detect Thoughts]]
+- [[Rime's Binding Ice]]
 # Features & Traits
 - Dark vision - 60 ft
 - Resistance to fire damage
