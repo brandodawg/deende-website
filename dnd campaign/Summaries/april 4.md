@@ -16,3 +16,4 @@ we meet some random unnamed black woman on this mountain. we'll call her yo yo y
 ### in town
 we find a half elf merchant. aoi steals enchanted arrows and beaver steals a horse, both using aoi's charisma and [[Friends]].
 ### new tavern
+we go to room 16c68 and beaver is beefing is aoi because beaver is not willing to pay the two gold for the hotel room. aoi kills a squatter in the room, and aoi and elise loudly pretend to make out with the corpse to intimidate beaver. elise is NOT pretending, but aoi is after sleep.
