@@ -1,0 +1,1 @@
+the gang. consists of [[Aoi]], [[Beaver]], [[Elise]], [[Jeremiah]], [[Noah]]
