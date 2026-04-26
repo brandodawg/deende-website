@@ -52,10 +52,12 @@ Skills:
 - [[Guidance]]
 - [[Create bonfire]]
 - [[Magic stone]]
-## 1 - 3
+## 1 - 4
 - [[Detect poison and disease]]
 - [[Cure wounds]]
-- [[Goodberry]]
+- [[Thunderwave]]
+## 2 - 2
+- [[Hold Person]]
 # Features & Traits
 - Dark vision - 60 ft
 - Fey ancestry

@@ -12,3 +12,7 @@ we trample people on the streets on the way to the square. we explore the town a
 in the name of tiamat, [[The Sigmas of the West]] declare war on the muslims.
 
 ![[Pasted image 20260425231650.png]]
+
+we meet up with jeremiah. jeremiah sets the arabic section on fire. aoi kills the agrarian librarian using [[Rime's Binding Ice]] because they couldn't find percy jackson and the olympians: the lightning thief in infernal.
+### the nobles' quarter
+let's rob marten! we burn down a house with a mom and two children for seemingly no reason. we use jeremiah's [[Create bonfire]]. we went to the guys house, and he had a kid vera. oh right, the guy only had one arm and we wanted to melt off his other arm, cause hammurabi's code and whatnot. then aoi seduced vera, but unforch jeremiah permanently disabled her via [[Thunderwave]]. womp womp. then, aoi scissors vera. she died from the scissoring (and also kept failing her constitution saving throws like a jebronut).
