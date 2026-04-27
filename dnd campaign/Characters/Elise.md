@@ -1,6 +1,4 @@
 ---
-tags:
-  - character
 Class: Paladin
 Level: 3
 Race: Human

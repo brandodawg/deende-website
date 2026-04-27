@@ -1,6 +1,4 @@
 ---
-tags:
-  - character
 Class: Druid
 Level: 3
 Race: Wood Elf

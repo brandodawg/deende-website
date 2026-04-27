@@ -1,6 +1,4 @@
 ---
-tags:
-  - character
 Class: Paladin
 Level: 2
 Race: Dark Elf

@@ -1,6 +1,4 @@
 ---
-tags:
-  - character
 Class:
 Level:
 Race:

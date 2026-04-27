@@ -1,6 +1,4 @@
 ---
-tags:
-  - character
 Class: Sorcerer
 Level: 4
 Race: Tiefling

@@ -1,6 +1,4 @@
 ---
-tags:
-  - character
 Class: Barbarian
 Level: 2
 Race: Mountain Dwarf

@@ -1,9 +1,22 @@
 filters:
   and:
     - file.inFolder("Spells")
+formulas:
+  Untitled: file.backlinks.filter(file(value).inFolder("Characters"))
+properties:
+  file.name:
+    displayName: spell name
+  formula.Untitled:
+    displayName: spell casters
 views:
   - type: table
     name: Table
     groupBy:
       property: spell level
-      direction: ASC
+      direction: DESC
+    order:
+      - file.name
+      - formula.Untitled
+    sort:
+      - property: formula.Untitled
+        direction: ASC
