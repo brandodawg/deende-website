@@ -4,4 +4,4 @@ aoi asked agin "how do we get to the next place?" he is sobbing and unresponsive
 
 the [[Friends]] wears off. jeremiah successfully hits agin with [[Hold Person]]. while [[Paralyzed]], beaver hits agin with his maul and kills him immediately.
 ### aya's house
-jeremiah enters aya's house and sees a monkey and promptly turns into a monkey. in response, aya is miffed. peeved in fact.
+jeremiah enters aya's house and sees a monkey and promptly turns into a monkey. in response, aya is miffed. peeved in fact. aya is pushing T. 
