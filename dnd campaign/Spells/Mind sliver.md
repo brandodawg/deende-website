@@ -1,5 +1,6 @@
 ---
 spell level: 0
+spell damage: 1d6
 ---
 _Enchantment cantrip_
 

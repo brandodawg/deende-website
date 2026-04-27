@@ -1,5 +1,6 @@
 ---
 spell level: 1
+spell damage: 1d6
 ---
 _1st-level evocation_
 

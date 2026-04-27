@@ -1,5 +1,6 @@
 ---
 spell level: 2
+spell damage: 3d8
 ---
 _2nd-level Evocation_
 

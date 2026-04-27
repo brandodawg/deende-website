@@ -17,9 +17,8 @@ views:
     order:
       - file.name
       - formula.Untitled
-    sort:
-      - property: formula.Untitled
-        direction: ASC
+      - spell damage
+    sort: []
     imageAspectRatio: 0.9
     cardSize: 140
   - type: table

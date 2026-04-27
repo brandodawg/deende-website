@@ -1,5 +1,6 @@
 ---
 spell level: 0
+spell damage: 1d8
 ---
 _Evocation Cantrip (Artificer, Sorcerer, Wizard)_
 
