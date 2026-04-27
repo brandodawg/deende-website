@@ -1,7 +1,3 @@
----
-tags:
-  - session
----
 ### room 14 or something
 *noah wakes up and is in the room with us*
 
