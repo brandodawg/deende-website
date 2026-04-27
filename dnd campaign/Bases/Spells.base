@@ -10,7 +10,7 @@ properties:
     displayName: spell casters
 views:
   - type: table
-    name: Table
+    name: everyone
     groupBy:
       property: spell level
       direction: DESC
@@ -20,3 +20,48 @@ views:
     sort:
       - property: formula.Untitled
         direction: ASC
+    imageAspectRatio: 0.9
+    cardSize: 140
+  - type: table
+    name: aoi
+    filters:
+      and:
+        - formula.Untitled.contains(link("Aoi"))
+    groupBy:
+      property: spell level
+      direction: DESC
+    order:
+      - file.name
+    sort: []
+  - type: table
+    name: beaver
+    filters:
+      and:
+        - formula.Untitled.contains(link("Beaver"))
+    groupBy:
+      property: spell level
+      direction: DESC
+  - type: table
+    name: elise
+    filters:
+      and:
+        - formula.Untitled.contains(link("Elise"))
+    groupBy:
+      property: spell level
+      direction: DESC
+  - type: table
+    name: jeremiah
+    filters:
+      and:
+        - formula.Untitled.contains(link("Jeremiah"))
+    groupBy:
+      property: spell level
+      direction: DESC
+  - type: table
+    name: noah
+    filters:
+      and:
+        - formula.Untitled.contains(link("Noah"))
+    groupBy:
+      property: spell level
+      direction: DESC
