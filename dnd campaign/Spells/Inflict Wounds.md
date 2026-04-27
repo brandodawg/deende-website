@@ -1,3 +1,6 @@
+---
+spell level: 1
+---
 _1st-level necromancy_
 
 **Casting Time:** 1 action  

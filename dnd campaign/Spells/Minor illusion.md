@@ -1,3 +1,6 @@
+---
+spell level: 0
+---
 _Illusion cantrip_
 
 **Casting Time:** 1 action  

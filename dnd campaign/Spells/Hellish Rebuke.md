@@ -1,3 +1,6 @@
+---
+spell level: 1
+---
 _1st-level evocation_
 
 **Casting Time:** 1 reaction, which you take when you are damaged by a creature within 60 feet of you that you can see  

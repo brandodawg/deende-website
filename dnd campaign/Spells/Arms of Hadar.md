@@ -1,3 +1,6 @@
+---
+spell level: 1
+---
 _1st-level conjuration_
 
 **Casting Time:** 1 action  

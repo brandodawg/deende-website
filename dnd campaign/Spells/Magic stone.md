@@ -1,3 +1,6 @@
+---
+spell level: 0
+---
 _Transmutation cantrip_
 
 **Casting Time:** 1 bonus action  

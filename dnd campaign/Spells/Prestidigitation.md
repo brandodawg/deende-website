@@ -1,3 +1,6 @@
+---
+spell level: 0
+---
 _Transmutation Cantrip (Artificer, Bard, Sorcerer, Warlock, Wizard)_
 
 **Casting Time:** Action  

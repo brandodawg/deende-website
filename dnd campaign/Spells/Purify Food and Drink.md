@@ -1,3 +1,6 @@
+---
+spell level: 1
+---
 _1st-level transmutation (ritual)_
 
 **Casting Time:** 1 action  

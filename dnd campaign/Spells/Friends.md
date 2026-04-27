@@ -1,3 +1,6 @@
+---
+spell level: 0
+---
 _Enchantment cantrip_
 
 **Casting Time:** 1 action  

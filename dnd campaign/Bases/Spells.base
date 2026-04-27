@@ -1,0 +1,9 @@
+filters:
+  and:
+    - file.inFolder("Spells")
+views:
+  - type: table
+    name: Table
+    groupBy:
+      property: spell level
+      direction: ASC

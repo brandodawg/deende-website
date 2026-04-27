@@ -1,3 +1,6 @@
+---
+spell level: 2
+---
 _2nd-level enchantment_
 
 **Casting Time:** 1 action  

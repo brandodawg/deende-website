@@ -1,3 +1,6 @@
+---
+spell level: 0
+---
 _Evocation Cantrip (Artificer, Sorcerer, Wizard)_
 
 **Casting Time:** Action  

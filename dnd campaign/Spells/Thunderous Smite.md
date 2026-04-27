@@ -1,3 +1,6 @@
+---
+spell level: 1
+---
 _1st-level evocation_
 
 **Casting Time:** 1 bonus action  

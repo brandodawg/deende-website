@@ -1,3 +1,6 @@
+---
+spell level: 0
+---
 _Evocation cantrip_
 
 **Casting Time:** 1 action  
