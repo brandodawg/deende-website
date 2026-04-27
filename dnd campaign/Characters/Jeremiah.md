@@ -2,8 +2,8 @@
 tags:
   - character
 Class: Druid
-Level: 2
-Race: Wood elf
+Level: 3
+Race: Wood Elf
 Background: Outlander
 Alignment:
 Strength: 12
