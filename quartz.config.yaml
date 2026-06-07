@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: deende
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -16,9 +16,9 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: Inter
+      body: Inter
+      code: Source Code Pro
     colors:
       lightMode:
         light: "#faf8f8"
@@ -131,7 +131,7 @@ plugins:
   - source: github:quartz-community/graph
     enabled: true
     layout:
-      position: right
+      position: afterBody
       priority: 10
   - source: github:quartz-community/search
     enabled: true
@@ -151,13 +151,8 @@ plugins:
     layout:
       position: beforeBody
       priority: 10
-  - source: github:quartz-community/content-meta
-    enabled: true
-    layout:
-      position: beforeBody
-      priority: 20
   - source: github:quartz-community/tag-list
-    enabled: false
+    enabled: true
     layout:
       position: beforeBody
       priority: 30
@@ -215,18 +210,14 @@ plugins:
   - source: github:quartz-community/note-properties
     enabled: true
     options:
-      includeAll: false
-      includedProperties:
-        - description
-        - tags
-        - aliases
-      excludedProperties: []
+      includeAll: right
+      excludedProperties: [password, modified]
       hidePropertiesView: false
       delimiters: ---
       language: yaml
     order: 5
     layout:
-      position: beforeBody
+      position: right
       priority: 15
       display: all
   - source: github:quartz-community/unlisted-pages
@@ -238,11 +229,12 @@ plugins:
     options:
       iterations: 600000
       passwordField: password
-      unlistWhenEncrypted: false
+      unlistWhenEncrypted: true
       outputPath: static/encryptedContentIndex.json
     order: 900
     layout:
-      position: body
+      component: encrypted-page
+      position: beforeBody
       priority: 100
       display: all
   - source: github:quartz-community/stacked-pages
@@ -251,6 +243,12 @@ plugins:
       position: afterBody
       priority: 50
       display: all
+  - source: github:saberzero1/quartz-themes/plugin
+    enabled: true
+    options:
+      theme: obsidian-gruvbox
+      mode: both
+    order: 10
 layout:
   groups:
     toolbar:

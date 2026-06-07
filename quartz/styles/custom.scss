@@ -1,3 +1,36 @@
-@use "./variables.scss" as *;
+* {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
+}
 
-// put your custom CSS here!
+/* ========================================================
+   RETAIN LAYOUT SPACING ON MAIN MENU (SIDEBARS HIDDEN)
+   ======================================================== */
+body[data-slug="index"] {
+  // Keep the exact same structural grid layout as other pages
+  .page {
+    display: grid !important;
+  }
+
+  // Hide the content inside the sidebars and graph, but preserve the empty space
+  .left > *, 
+  .right > *, 
+  .graph-outer,
+  .sidebar > * {
+    visibility: hidden !important;
+    opacity: 0 !important;
+    pointer-events: none !important;
+  }
+}
+
+/* Simple fix to make everything visible and scrollable */
+.right.sidebar {
+  position: relative !important;
+  height: auto !important;
+  max-height: none !important;
+  overflow: visible !important;
+}
+
+/* Ensure nothing inside cuts off the text */
+.right.sidebar * {
+  overflow: visible !important;
+}
