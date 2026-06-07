@@ -1,6 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: deende
+  baseUrl: "brandodawg.github.io/deende-website"
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
