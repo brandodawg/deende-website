@@ -2,6 +2,8 @@
 configuration:
   pageTitle: deende
   baseUrl: "brandodawg.github.io/deende-website"
+  baseUrlConfig:
+    useSubdomain: false
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
