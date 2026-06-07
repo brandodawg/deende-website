@@ -1,6 +1,6 @@
 filters:
   and:
-    - file.inFolder("Characters")
+    - file.inFolder("Characters (current)")
 formulas:
   Untitled: ((Strength-10)/2).floor()
   Dexterity: ((Dexterity-10)/2).floor()

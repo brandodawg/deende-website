@@ -1,8 +1,9 @@
 filters:
   and:
     - file.inFolder("Spells")
+    - "!formula.Untitled.isEmpty()"
 formulas:
-  Untitled: file.backlinks.filter(file(value).inFolder("Characters"))
+  Untitled: file.backlinks.filter(file(value).inFolder("Characters (current)"))
 properties:
   file.name:
     displayName: spell name
@@ -18,43 +19,11 @@ views:
       - file.name
       - formula.Untitled
       - spell damage
-    sort: []
+    sort:
+      - property: formula.Untitled
+        direction: ASC
     imageAspectRatio: 0.9
     cardSize: 140
-  - type: table
-    name: aoi
-    filters:
-      and:
-        - formula.Untitled.contains(link("Aoi"))
-    groupBy:
-      property: spell level
-      direction: DESC
-    order:
-      - file.name
-      - spell damage
-    sort: []
-  - type: table
-    name: beaver
-    filters:
-      and:
-        - formula.Untitled.contains(link("Beaver"))
-    groupBy:
-      property: spell level
-      direction: DESC
-    order:
-      - file.name
-      - spell damage
-  - type: table
-    name: elise
-    filters:
-      and:
-        - formula.Untitled.contains(link("Elise"))
-    groupBy:
-      property: spell level
-      direction: DESC
-    order:
-      - file.name
-      - spell damage
   - type: table
     name: jeremiah
     filters:
@@ -83,3 +52,17 @@ views:
     groupBy:
       property: spell level
       direction: DESC
+  - type: table
+    name: rollo
+    filters:
+      and:
+        - formula.Untitled.contains(link("Rollo"))
+    groupBy:
+      property: spell level
+      direction: DESC
+    order:
+      - file.name
+      - spell damage
+    sort:
+      - property: file.name
+        direction: ASC

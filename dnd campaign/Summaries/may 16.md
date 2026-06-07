@@ -16,4 +16,4 @@ lil durk buys an egg. "it's a great day to be white" - elise. "\*southern twang\
 ### confronting castor
 "i'm wearing a bikini no matter the weather" - aoi. "i wear no clothes, i just wear a confederate flag everywhere i go" - elise. we go back to the library. shockingly, it's unchanged. we go to castor's room. elise walks in with aura. aoi asks castor to spell chiaroscuro to prove it's not her handwriting, and she spells it as "kiarasceuroe" like an idiot. josiah decides that castor isn't an aoiphile, which is a pretty unfair line to draw. i digress. "most of the books are in the back of the book" - castor. castor says the books are in a staff only zone. aoi has the clever idea to skin her and wear her skin to get in the staff area. aoi [[Rime's Binding Ice]]s her and elise skins her and puts her skin on.
 
-mcgurk sees us wearing castor's skin and starts to attack us. mcgurk uses [[Fireball]] and deals 22 damage.
+mcgurk sees us wearing castor's skin and starts to attack us. mcgurk uses [[Fireball]] and deals 22 damage. yeah so basically this random guy mcgurk kills [[Aoi]], [[Beaver]], and [[Elise]].
