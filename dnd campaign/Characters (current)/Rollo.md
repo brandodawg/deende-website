@@ -15,6 +15,8 @@ Saving Throws:
   - Intelligence
   - Wisdom
 Skills:
+  - Insight
+  - Investigation
 ---
 # Background
 Rollo is the only child of Dorina from the psychic house "Psychic Readings by Dorina" in Providence, Rhode Island. Never knowing his father, he worked as the cashier of the psychic house and has never believed in his mother's abilities. He sees the prices desperate people are willing to pay for the truth, and is certain his mother is taking advantage of them.

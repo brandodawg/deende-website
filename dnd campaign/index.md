@@ -2,12 +2,11 @@
 title: Main Menu
 password: BdNw2gr
 ---
-# Characters
-- [[Aoi]]
-- [[Beaver]]
-- [[Elise]]
+# Living Characters
 - [[Jeremiah]]
+- [[Lil Durk]]
 - [[Noah]]
+- [[Rollo]]
 # Summaries
 - [[march 14]]
 - [[march 21]]

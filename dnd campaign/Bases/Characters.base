@@ -27,7 +27,7 @@ views:
     sort: []
     summaries: {}
     columnSize:
-      file.name: 83
+      file.name: 93
       note.Strength: 104
       note.Dexterity: 106
       note.Constitution: 139
@@ -46,7 +46,7 @@ views:
       - formula.Charisma
     sort: []
     columnSize:
-      file.name: 84
+      file.name: 93
       formula.Untitled: 104
       formula.Dexterity: 106
       formula.Constitution: 139
