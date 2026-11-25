@@ -17,13 +17,14 @@ Saving Throws:
 Skills:
   - Insight
   - Investigation
+Armor: "11"
 ---
 # Background
 Rollo is the only child of Dorina from the psychic house "Psychic Readings by Dorina" in Providence, Rhode Island. Never knowing his father, he worked as the cashier of the psychic house and has never believed in his mother's abilities. He sees the prices desperate people are willing to pay for the truth, and is certain his mother is taking advantage of them.
 
 One day while cleaning, Rollo overhears his mother raising her voice at a customer while at the front desk. The customer is pleading that Dorina help remove a curse from the customer's child--her skin appeared blue and sickly--but she insists it is incurable by magic. The customer becomes enraged. Screaming, "I know you have it in here!", the customer begins rifling through the shelves, knocking over countless crystals and vials. "I know it's milky white! Where is it?!". The customer screams louder and louder, until suddenly Dorina closes her fist and an ice shard explodes out of her hand, piercing the customer's chest.
 
-Terrified, Dorina tries to comfort Rollo; she tries to explain to him that magic is real and she had to kill the customer in self-defense. She places an amethyst necklace over Rollo's head, telling him it was time he learn of his true powers. Disillusioned by the truth of his mother's ability, Rocco ran out of the store and took the customer's child with him.
+Terrified, Dorina tries to comfort Rollo; she tries to explain to him that magic is real and she had to kill the customer in self-defense. She places an amethyst necklace over Rollo's head, telling him it was time he learn of his true powers. Disillusioned by the truth of his mother's ability, Rollo ran out of the store and took the customer's child with him.
 
 Seeking refuge, Rollo hides from his mother on the campus of Brown University. The students there took him in, and taught him magic for him to defend himself. While studying, he sought the cure for the child's illness. Knowing it was uncurable by magic, he searched the world looking for a cure.
 
@@ -50,3 +51,6 @@ With his magical abilities channeling from his amethyst, his magical knowledge g
 ## Languages
 - Common
 - Elvish
+
+
+steals 100 gp from caravan

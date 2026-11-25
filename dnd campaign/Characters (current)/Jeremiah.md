@@ -64,9 +64,9 @@ Skills:
 # Equipment
 ## Currency
 
-| CP  | SP  | EP  | GP  | PP  |
-| --- | --- | --- | --- | --- |
-|     |     |     | 10  |     |
+| CP  | SP  | EP  | GP      | PP  |
+| --- | --- | --- | ------- | --- |
+|     |     |     | 10 + 10 |     |
 ## Items
 * Herbalism kit
 * Hand axe
@@ -80,6 +80,8 @@ Skills:
 * Traveler's clothes
 * Has Mila Teno's address
 * Has two pet wolves (they like [[Beaver]] more)
+* Map of entire area of new phlan and surrounding areas + jail
+* Contacts in the merchant league
 # Other Proficiencies & Languages
 ## Proficiencies
 - Weapons
