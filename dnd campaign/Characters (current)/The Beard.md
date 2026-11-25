@@ -1,8 +1,8 @@
 ---
-Class:
-Level:
-Race:
-Background:
+Class: Monk
+Level: 2
+Race: Dwarf
+Background: Urchin
 Alignment:
 Experience Points:
 Strength: 13
@@ -13,7 +13,6 @@ Wisdom: 16
 Charisma: 12
 Saving Throws:
 Skills:
-draft: "true"
 ---
 # Background
 

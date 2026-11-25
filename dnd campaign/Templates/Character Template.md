@@ -13,7 +13,6 @@ Wisdom:
 Charisma:
 Saving Throws:
 Skills:
-draft: "true"
 ---
 # Background
 

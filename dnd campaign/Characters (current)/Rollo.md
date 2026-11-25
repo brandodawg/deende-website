@@ -42,6 +42,8 @@ With his magical abilities channeling from his amethyst, his magical knowledge g
 - [[Gift of Alacrity]]
 # Features & Traits
 - Tough
+- School of Necromancy
+	- Once per turn when you kill one or more creatures with a spell of 1st level or higher, you regain hit points equal to twice the spell's level, or three times its level if the spell belongs to the School of Necromancy 
 # Other Proficiencies & Languages
 ## Proficiencies
 - Simple weapons

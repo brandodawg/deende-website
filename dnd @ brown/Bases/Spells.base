@@ -1,0 +1,68 @@
+filters:
+  and:
+    - file.inFolder("Spells")
+    - "!formula.Untitled.isEmpty()"
+formulas:
+  Untitled: file.backlinks.filter(file(value).inFolder("Characters (current)"))
+properties:
+  file.name:
+    displayName: spell name
+  formula.Untitled:
+    displayName: spell casters
+views:
+  - type: table
+    name: everyone
+    groupBy:
+      property: spell level
+      direction: DESC
+    order:
+      - file.name
+      - formula.Untitled
+      - spell damage
+    sort:
+      - property: formula.Untitled
+        direction: ASC
+    imageAspectRatio: 0.9
+    cardSize: 140
+  - type: table
+    name: jeremiah
+    filters:
+      and:
+        - formula.Untitled.contains(link("Jeremiah"))
+    groupBy:
+      property: spell level
+      direction: DESC
+    order:
+      - file.name
+      - spell damage
+  - type: table
+    name: lil durk
+    filters:
+      and:
+        - formula.Untitled.contains(link("Lil Durk"))
+    order:
+      - file.name
+      - spell damage
+    sort: []
+  - type: table
+    name: noah
+    filters:
+      and:
+        - formula.Untitled.contains(link("Noah"))
+    groupBy:
+      property: spell level
+      direction: DESC
+  - type: table
+    name: rollo
+    filters:
+      and:
+        - formula.Untitled.contains(link("Rollo"))
+    groupBy:
+      property: spell level
+      direction: DESC
+    order:
+      - file.name
+      - spell damage
+    sort:
+      - property: file.name
+        direction: ASC
